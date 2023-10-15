@@ -1,0 +1,35 @@
+{
+  "version": "v0.1.1",
+  "notes": "Initialization",
+  "pub_date": "2023-10-14T16:00:01.345Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHZLK0xUWkREUndmSGIwV3dmNm5kclZ2NUp4NFBDKzg3K2NkbGMvR1BUaGo4Ty8rNnJYTTJvRU91aWl1cEZ4SkMwT3dObE5rTklxeVNUTExzcUJXRE00RlJoSjBTc0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3Mjk0NzU3CWZpbGU6WXVraSBDaGF0R1BUXzAuMS4xX3g2NF9lbi1VUy5tc2kuemlwCnlGbjRYeXl6NDhQOHNNaStiSEZieXFieTkzRnpwWllwVk13UnVPYlhEOHJtQ2lteDJCRXVUcEFlSmlla1FyMVI4ZzZ1UUpIR1l6d2lnTHZON2hyOUFBPT0K",
+      "url": "https://github.com/Yuki94398/Yuki-ChatGPT/releases/download/v0.1.1/Yuki.ChatGPT_0.1.1_windows_x86_64.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHZLK0xUWkREUnd6Z1IxNXdPcWJLTGU3amlHNlI1Qm9uU3djbU1WdGxnMGZyRG5jMmdDMmUyTHh6Y05UUFN1Y2VwZzhIVE43cjd1R2RPY0dHUkdjY3g1YmM3VEtvTWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3Mjk0NzE0CWZpbGU6eXVraS1jaGF0LWdwdF8wLjEuMV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKRFBnbzFDVUdBaWVBTXFVWXVTSGNoSXM5a3c3NTZ5M2pBaEtXc3AzWmdzbUZwNXJzSHRteFRQaVZnaE9vQ0ZLQU9VNG56QXFOWVpCNFhWb0hYWlRFQWc9PQo=",
+      "url": "https://github.com/Yuki94398/Yuki-ChatGPT/releases/download/v0.1.1/Yuki.ChatGPT_0.1.1_linux_x86_64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHZLK0xUWkREUjJYSjlvUWVYZEtzcjhCSHZjbXRJd04rYUxlQ1RVdFpXdWk3OVpmeUUrbW01bTlsRGRkcHB6a3hMbVc5eE1xc0I2N1kwV2xTd1VsNW9BbEtBM01qZWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3Mjk0ODEzCWZpbGU6WXVraSBDaGF0R1BULmFwcC50YXIuZ3oKc3dEMkhseWhpbFZ2S056V1ZxdXZpcXNQWmJNWEFkdVM0U2ppRUIrQXBJUEtGTzM0NUl5cSt4L3JoYmt1ZkhaVlZySlFtTnBkdStNUFl4TTQ1OGJPQ0E9PQo=",
+      "url": "https://github.com/Yuki94398/Yuki-ChatGPT/releases/download/v0.1.1/Yuki.ChatGPT_0.1.1_macos_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHZLK0xUWkREUnlMMUxWMFBSZER3TUN2RU9rVzEvYVNKNVkwRUtTUkFPdGdmRW5qRGJXdjJ0SkhsR2grVDRXZXhXSjRYUGtVQ3ZFQThCTkhrUlE4VkdyVzhTSjB4UlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3Mjk0NjcxCWZpbGU6WXVraSBDaGF0R1BULmFwcC50YXIuZ3oKNmJMUXhBZnJqMFNRWW9FaVFsclMrckpvK2QyUTBaL0hpTUJyc0pQWVR1UWNXTWNvVEo2Q210ejk5cFNRVktzWGloODMzTTdLTzhlVnh4RndKYzBYQlE9PQo=",
+      "url": "https://github.com/Yuki94398/Yuki-ChatGPT/releases/download/v0.1.1/Yuki.ChatGPT_0.1.1_macos_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHZLK0xUWkREUjJYSjlvUWVYZEtzcjhCSHZjbXRJd04rYUxlQ1RVdFpXdWk3OVpmeUUrbW01bTlsRGRkcHB6a3hMbVc5eE1xc0I2N1kwV2xTd1VsNW9BbEtBM01qZWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3Mjk0ODEzCWZpbGU6WXVraSBDaGF0R1BULmFwcC50YXIuZ3oKc3dEMkhseWhpbFZ2S056V1ZxdXZpcXNQWmJNWEFkdVM0U2ppRUIrQXBJUEtGTzM0NUl5cSt4L3JoYmt1ZkhaVlZySlFtTnBkdStNUFl4TTQ1OGJPQ0E9PQo=",
+      "url": "https://github.com/Yuki94398/Yuki-ChatGPT/releases/download/v0.1.1/Yuki.ChatGPT_0.1.1_macos_x86_64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHZLK0xUWkREUnd6Z1IxNXdPcWJLTGU3amlHNlI1Qm9uU3djbU1WdGxnMGZyRG5jMmdDMmUyTHh6Y05UUFN1Y2VwZzhIVE43cjd1R2RPY0dHUkdjY3g1YmM3VEtvTWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3Mjk0NzE0CWZpbGU6eXVraS1jaGF0LWdwdF8wLjEuMV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKRFBnbzFDVUdBaWVBTXFVWXVTSGNoSXM5a3c3NTZ5M2pBaEtXc3AzWmdzbUZwNXJzSHRteFRQaVZnaE9vQ0ZLQU9VNG56QXFOWVpCNFhWb0hYWlRFQWc9PQo=",
+      "url": "https://github.com/Yuki94398/Yuki-ChatGPT/releases/download/v0.1.1/Yuki.ChatGPT_0.1.1_linux_x86_64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHZLK0xUWkREUndmSGIwV3dmNm5kclZ2NUp4NFBDKzg3K2NkbGMvR1BUaGo4Ty8rNnJYTTJvRU91aWl1cEZ4SkMwT3dObE5rTklxeVNUTExzcUJXRE00RlJoSjBTc0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3Mjk0NzU3CWZpbGU6WXVraSBDaGF0R1BUXzAuMS4xX3g2NF9lbi1VUy5tc2kuemlwCnlGbjRYeXl6NDhQOHNNaStiSEZieXFieTkzRnpwWllwVk13UnVPYlhEOHJtQ2lteDJCRXVUcEFlSmlla1FyMVI4ZzZ1UUpIR1l6d2lnTHZON2hyOUFBPT0K",
+      "url": "https://github.com/Yuki94398/Yuki-ChatGPT/releases/download/v0.1.1/Yuki.ChatGPT_0.1.1_windows_x86_64.msi.zip"
+    }
+  }
+}
